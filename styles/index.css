@@ -12,7 +12,7 @@ header {
 /* the styles for the main content */
 main {
     position: relative;
-    min-height: 100vh;
+    min-height: 90vh;
 }
 
 footer p {
